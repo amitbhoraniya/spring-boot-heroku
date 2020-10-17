@@ -1,0 +1,6 @@
+{
+  "name": "Random Images",
+  "description": "Random Images example using Spring Boot",
+  "repository": "https://github.com/amitbhoraniya/spring-boot-heroku",
+  "keywords": ["Spring Boot", "Heroku", "Deployment", "Images"]
+}
